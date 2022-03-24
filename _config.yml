@@ -28,7 +28,7 @@ timezone: "America/Chicago"
 markdown: kramdown
 kramdown:
   auto_id_prefix: webdev_
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # exclude: [course-files]
