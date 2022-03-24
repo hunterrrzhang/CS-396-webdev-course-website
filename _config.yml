@@ -16,7 +16,7 @@
 title: "CS396: Winter 2022"
 subtitle: "Intro to Web Development"
 email: vanwars@northwestern.edu
-baseurl: "/CS-396-webdev-course-website"
+baseurl: "/winter2022"
 term_start_date: "2022-01-02"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
